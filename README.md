@@ -1,3 +1,3 @@
 WORKSHOP GIT GDSC UNAIR
 
-ayo kita bisa
+gdsc unair
