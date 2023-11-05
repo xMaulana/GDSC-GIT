@@ -1,2 +1,3 @@
-WORKSHOP version control GDSC UNAIR
+WORKSHOP GIT GDSC UNAIR
 
+ayo kita bisa
